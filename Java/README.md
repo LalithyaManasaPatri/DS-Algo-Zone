@@ -22,6 +22,9 @@ Add links to your code in Alphabetical Order.
 
 [Minimum Number of 1s](./min_number_of_1.java)
 
+
+[Maximum Sum Increasing Subsequence](./Max_Sum_Inc_Subseq.java)
+
 [Palindrome String](./PalindromeString.java)
 
 [Quick Sort](./QuickSort.java)
