@@ -20,6 +20,8 @@ Add links to your code in Alphabetical Order.
 
 [Longest Substring Without Repeating Characters](./Longest_Substring_Without_Repeating_Characters.java)
 
+[Maximum Sum Increasing Subsequence](./Max_Sum_Inc_Subseq.java)
+
 [Merge Sort for Arrays](./MergeSortArray.java)
 
 [Minimum Number of 1s](./min_number_of_1.java)
